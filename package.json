@@ -1,0 +1,22 @@
+{
+  "name": "min-theme-plus",
+  "displayName": "Min Theme+",
+  "description": "Forked Min Theme with One Dark color scheme",
+  "author": "NiFate",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Min Theme+",
+        "uiTheme": "vs-dark",
+        "path": "./themes/min-theme-plus-color-theme.json"
+      }
+    ]
+  }
+}
