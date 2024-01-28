@@ -3,7 +3,13 @@
   "displayName": "Min Theme+",
   "description": "Forked Min Theme with One Dark color scheme",
   "author": "NiFate",
+  "publisher": "nifate",
   "version": "1.0.0",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NiFate/min-theme-plus.git"
+},
   "engines": {
     "vscode": "^1.85.0"
   },
